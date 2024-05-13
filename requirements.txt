@@ -1,0 +1,2 @@
+langchain==0.1.17
+ollama==0.1.9

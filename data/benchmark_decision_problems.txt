@@ -1,0 +1,21 @@
+ <beslissingsprobleem>
+    Medische beslissingen - of een bepaalde behandeling wordt voorgeschreven, of iemand wordt toegelaten tot een klinisch proef
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Veiligheidsbeslissingen - of iemand wordt toegelaten tot een beveiligd gebied, of er wordt besloten om iemand te ontwapenen
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Immobiliëbeslissingen - of een hypotheekaanvraag wordt goedgekeurd, of een huurcontract wordt verlengd
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Belastingbeslissingen - of iemand krijgt een belastingteruggave, of er wordt besloten om iemand te auditieren
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Vreemdelingenrechtelijke beslissingen - of iemand krijgt een visum, of iemand wordt toegelaten tot een land
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Verzekeringsbeslissingen - of er wordt gekozen om iemand te verzekeren, of er wordt besloten om een schadevergoeding te betalen
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Toelatingsbeslissingen - of iemand wordt toegelaten tot een vereniging, of iemand mag deelnemen aan een evenement
+</beslissingsprobleem>
