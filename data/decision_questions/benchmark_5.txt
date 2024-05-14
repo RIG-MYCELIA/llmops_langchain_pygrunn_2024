@@ -1,3 +1,0 @@
- <beslissingsvraag>
-De kandidaat is een 35-jarige ziekenverzorgende die wordt beschouwd als een hoge risicogeval voor een levensverzekering vanwege hun recente diagnose met suikerziekte type 2. Hoewel de kandidaat recentelijk heeft deelgenomen aan een georganiseerd programma ter ondersteuning van mensen met chronische ziekten en zijn medisch team heeft een positief rapport over hun voortgang opgesteld, blijft de diagnose een belangrijke factor van risico in de ogen van verzekeringsondernemingen. De kandidaat is echter nooit eerder verzekerd geweest en heeft een sterke werk- en levensachtergrond die aantoont dat hij of zij financieel verantwoordelijk is. Gegeven de concurrerende factoren, moet een verzekeringsonderneming deze kandidaat verzekeren?
-</beslissingsvraag>

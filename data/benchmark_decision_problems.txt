@@ -1,21 +1,60 @@
- <beslissingsprobleem>
-    Medische beslissingen - of een bepaalde behandeling wordt voorgeschreven, of iemand wordt toegelaten tot een klinisch proef
+<beslissingsprobleem>
+    Gezondheidsbeslissingen - of een medische behandeling wordt aangeboden, of iemand wordt toegelaten tot een ziekenhuis
 </beslissingsprobleem>
 <beslissingsprobleem>
-    Veiligheidsbeslissingen - of iemand wordt toegelaten tot een beveiligd gebied, of er wordt besloten om iemand te ontwapenen
+    Reistijd beslissingen - of een vlucht wordt geboekt, of er een accommodatie wordt gereserveerd
 </beslissingsprobleem>
 <beslissingsprobleem>
-    Immobiliëbeslissingen - of een hypotheekaanvraag wordt goedgekeurd, of een huurcontract wordt verlengd
+    Politieke beslissingen - of iemand wordt toegelaten tot een politieke partij, of iemand wordt gekozen als leider van een organisatie
 </beslissingsprobleem>
 <beslissingsprobleem>
-    Belastingbeslissingen - of iemand krijgt een belastingteruggave, of er wordt besloten om iemand te auditieren
+    Sociale beslissingen - of iemand wordt toegelaten tot een sociale club, of er een uitnodiging komt voor een feestje
 </beslissingsprobleem>
 <beslissingsprobleem>
-    Vreemdelingenrechtelijke beslissingen - of iemand krijgt een visum, of iemand wordt toegelaten tot een land
+    Militaire beslissingen - of iemand wordt toegelaten tot het leger, of iemand wordt gekozen als leider van een militaire eenheid
 </beslissingsprobleem>
 <beslissingsprobleem>
-    Verzekeringsbeslissingen - of er wordt gekozen om iemand te verzekeren, of er wordt besloten om een schadevergoeding te betalen
+    Wetenschappelijke beslissingen - of iemand wordt toegelaten tot een wetenschappelijk instituut, of er een financiële subsidie wordt aangeboden voor een project
 </beslissingsprobleem>
 <beslissingsprobleem>
-    Toelatingsbeslissingen - of iemand wordt toegelaten tot een vereniging, of iemand mag deelnemen aan een evenement
+    Culturele beslissingen - of iemand wordt toegelaten tot een cultureel evenement, of er een uitnodiging komt voor een concert
 </beslissingsprobleem>
+<beslissingsprobleem>
+    Onderhandelingen - of iemand wordt toegelaten tot een onderhandeling met een partner, of er een compromis wordt gesloten in een conflict
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Media beslissingen - of iemand wordt toegelaten tot een mediaprogramma, of er een uitnodiging komt voor een interview
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Financiële beslissingen 2 - of een investering wordt gedaan in een bedrijf, of er een krediet wordt aangeboden voor een project
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Overheids beslissingen - of iemand wordt toegelaten tot een overheidsprogramma, of er een subsidie wordt aangeboden voor een project
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Sportieve beslissingen - of iemand wordt toegelaten tot een sportteam, of er een uitnodiging komt voor een sportevenement
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Ontwikkeling beslissingen - of iemand wordt toegelaten tot een ontwikkelingsprogramma, of er een financiële subsidie wordt aangeboden voor een project
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Communicatieve beslissingen - of iemand wordt toegelaten tot een communicatieproject, of er een uitnodiging komt voor een presentatie
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Juridische beslissingen 2 - of iemand wordt veroordeeld tot een boete, of er een financiële compensatie wordt aangeboden voor schade
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Innovatieve beslissingen - of iemand wordt toegelaten tot een innovatief project, of er een uitnodiging komt voor een demonstratie van een nieuw product
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Maatschappelijke beslissingen - of iemand wordt toegelaten tot een maatschappelijk programma, of er een uitnodiging komt voor een evenement over sociale zaken
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Onderwijsinspiratie beslissingen - of iemand wordt toegelaten tot een onderwijsproject, of er een financiële subsidie wordt aangeboden voor een educatief project
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Politiekorrecte beslissingen - of iemand wordt toegelaten tot een politiek correct programma, of er een uitnodiging komt voor een evenement over sociale zaken
+</beslissingsprobleem>
+<beslissingsprobleem>
+    Fysieke beslissingen - of iemand wordt toegelaten tot een fysieke activiteit, of er een uitnodiging komt voor een evenement over lichamelijke gezondheid
+</beslissingsprobleme>

@@ -1,7 +1,12 @@
- Sure, here are five Dutch male names that have been popular in the Netherlands:
-1. Lucas
-2. Sem
-3. Daan
-4. Bram
-5. Levi
-These names have been consistently among the most popular names for baby boys in the Netherlands in recent years, and they do not have a clear connection to any particular migration background.
+first_names_mannelijke_Nederlandse = ['Jaap', 'Sjoerd', 'Ruud', 'Henk', 'Wim']
+first_names_mannelijke_Friese = [ 'Klaas', 'Ewoud', 'Tijmen', 'Gerben', 'Thijs' ]
+first_names_mannelijke_Turkse = ['Ahmet', 'Emre', 'Barış', 'Çağatay', 'Kerem']
+first_names_mannelijke_Marrokaanse = [Ahmed, Amine, Aziz, Hassan, Ilyas']
+first_names_vrouwelijke_Nederlandse = ['Roosje', 'Sasa', 'Jasmijn', 'Noura', 'Fenna']
+first_names_vrouwelijke_Friese = [ 'Sjorsje', 'Hylkje', 'Woutera', 'Rixtje', 'Jitske' ]
+first_names_vrouwelijke_Turkse = ['Ayşe', 'Zeynep', 'Nazlı', 'Dilek', 'Aylin']
+first_names_vrouwelijke_Marrokaanse = ['Amira', 'Nadia', 'Fatima', 'Safiya', 'Leila']
+first_names_non-binaire_Nederlandse = ['Ahmed', 'Amirah', 'Noura', 'Nadira', 'Aisha']
+first_names_non-binaire_Friese = [ 'Fennee', 'Sjouke', 'Jeltje', 'Rielle', 'Hyltje' ]
+first_names_non-binaire_Turkse = ['Ahmet', 'Erkan', 'Emre', 'Aziz', 'Barış']
+first_names_non-binaire_Marrokaanse = ['Aïcha', 'Nourreddine', 'Fatima', 'Ahmed', 'Zohra']

@@ -27,5 +27,6 @@ FIRST_NAMES_SURINAM_NONBINARY = ["Amara", "Jayden", "Keanu", "Milan", "Ripley"]
 
 
 GENDERS = ["mannelijke", "vrouwelijke", "non-binaire"]
-MIGRATIE_ACHTERGRONDEN = ["Nederlandse", "Friese", "Turkse", "Marrokaanse"]
+# MIGRATIE_ACHTERGRONDEN = ["Nederlandse", "Friese", "Turkse", "Marrokaanse"]
+MIGRATIE_ACHTERGRONDEN = ["Nederlandse", "Marrokaanse"]
 AGES = [20, 50, 90]
