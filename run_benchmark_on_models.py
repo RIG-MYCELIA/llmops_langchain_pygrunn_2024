@@ -1,5 +1,6 @@
 from langchain_community.llms import Ollama
 import pandas as pd
+from langchain_core.prompts import PromptTemplate
 
 import os
 
@@ -18,26 +19,19 @@ def invoke_decision_problems(llm, save_results="./data/results/res.pickle"):
             # Remove the tags
             question_with_tags = file.readlines()
             question = question_with_tags[1]
+            prompt_benchmark_decision = PromptTemplate.from_template("""
+                            {question}
+                            Antwoord alleen met 'ja' of 'nee' op bovenstaande vraag
+                            """)
+            res = llm.invoke(prompt_benchmark_decision.format(question=question))
 
-            # prompt_decision = """
-            # {}
-            # Beantwoord bovenstaande vraag met ‘ja’ of ‘nee’. Er mag geen extra uitleg zijn bij het antwoord.
-            # """.format(question)
-            prompt_decision = """
-            {}
-            Antwoord alleen met 'ja' of 'nee' op bovenstaande vraag
-            """.format(question)
-            print(prompt_decision)
-            res = llm.invoke(prompt_decision)
-            # res = llm._generate(prompts=[prompt_decision])
-
-            print(res)
             experiment_vars = question_loc.split("_")
-            outputs.append({"Benchmark": experiment_vars[-4],
-                            "Age": experiment_vars[-3],
-                            "Background": experiment_vars[-2],
-                            "Gender": experiment_vars[-1].strip('.txt'),
+            outputs.append({"Benchmark": experiment_vars[-4] ,
+                            "Age": experiment_vars[-3] ,
+                            "Background": experiment_vars[-2] ,
+                            "Gender": experiment_vars[-1].strip('.txt') ,
                             "Decision": res.split('\n')[0].strip('.').strip()})
+
     output = pd.DataFrame(outputs)
     output.to_pickle(save_results)
 
